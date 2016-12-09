@@ -15,9 +15,19 @@ I can barely keep track so why would I expect you to know what all I'm up to?
 
 Here are the projects:
 
-## [editdata](https://editdata.org)
+## documentation tools
 
-Tools for working with data.
+I'm spending as much time as I can on documentation. Here are some documentation-focused tools I've been working on:
+
+- [docpage.org](https://docpage.org) – create documentation sites from a single markdown file
+- [minidocs](https://npmjs.com/minidocs) – build a simple site for your documentation
+- [markdown-reader](https://npmjs.com/markdown-reader) – create a stream of markdown files
+- [rewrite-markdown-urls](https://npm/rewrite-markdown-urls) – turn relative github urls into urls appropriate for a static site
+- [sdv](https://npmjs.com/sdv) – my personal command-line tool for creating files like README.md, CONTRIBUTING.md, code of conduct, and other repetitive code maintenance tasks.
+
+## [staticland](https://static.land)
+
+Host static sites with automatic SSL via Let's Encrypt.
 
 ## [township](https://github.com/township)
 
@@ -27,13 +37,9 @@ Tools for authentication and authorization.
 
 Create educational workshops as websites and desktop apps.
 
-## [staticland](https://static.land)
+## [editdata](https://editdata.org)
 
-Host static sites with automatic SSL via Let's Encrypt.
-
-## [Popup Arcade](http://popuparcade.org)
-
-Building arcade machines.
+Tools for working with data.
 
 ## [writingjavascript.org](https://writingjavascript.org)
 
@@ -43,9 +49,10 @@ A publication focused on exploring & advancing the craft of JavaScript, Node, & 
 
 Blog posts about JavaScript and other things.
 
-## [Open Seattle](http://openseattle.org)
 
-A volunteer organization focused on addressing civic issues with technology and supporting local civic engagement.
+## [Popup Arcade](http://popuparcade.org)
+
+Building arcade machines.
 
 ## [seattle.io](http://seattle.io)
 
@@ -76,15 +83,6 @@ Here are a few of my favorite small modules I've created that don't fit in one o
 - [sprite-2d](https://npmjs.com/sprite-2d) – render 2d sprites
 
 See more at my [GitHub profile](https://github.com/sethvincent).
-
-## documentation tools
-
-I'm trying to spend more time focusing on documentation. Here are some documentation-focused modules I've been working on:
-
-- [minidocs](https://npmjs.com/minidocs) – build a simple site for your documentation
-- [markdown-reader](https://npmjs.com/markdown-reader) – create a stream of markdown files
-- [rewrite-markdown-urls](https://npm/rewrite-markdown-urls) – turn relative github urls into urls appropriate for a static site
-- [sdv](https://npmjs.com/sdv) – my personal command-line tool for creating files like README.md, CONTRIBUTING.md, code of conduct, and other repetitive code maintenance tasks.
 
 ## Supporting these projects
 
