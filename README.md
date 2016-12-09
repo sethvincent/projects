@@ -13,7 +13,15 @@ I've realized that I work on a lot of different projects. They are all in differ
 
 I can barely keep track so why would I expect you to know what all I'm up to?
 
-Here are the projects:
+Here are the projects!
+
+## Overall goal
+
+My goals are to create tools for journalism, community organizing, and games.
+
+I've built lots of little pieces, small modules, that help with each of those goals.
+
+My aim now is to find ways in which I can work on projects that combine those three interests.
 
 ## documentation tools
 
