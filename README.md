@@ -1,6 +1,6 @@
-# projects
+# Projects
 
-A list of open source projects I work on!
+> Projects I work on.
 
 [![conduct][conduct]][conduct-url]
 
@@ -27,7 +27,7 @@ I'm spending as much time as I can on documentation. Here are some documentation
 - [rewrite-markdown-urls](https://npm/rewrite-markdown-urls) – turn relative github urls into urls appropriate for a static site
 - [minidocs](https://npmjs.com/minidocs) – build a simple site for your documentation
 
-## Journalism, open data, & public-interest technology projects
+## Journalism & public-interest technology projects
 
 ### [seattle.io](http://seattle.io)
 
@@ -106,13 +106,13 @@ Have ideas or fixes for this repository? Please read the [contributing guideline
 
 ## Conduct
 
-It's important that this project contributes to a friendly, safe, and welcoming environment for all, particularly for folks that are historically underrepresented in technology. Read this project's [code of conduct](CONDUCT.md)
+Help keep this project open and inclusive. Please read and follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## See also
 - [📓 read my public notebook](https://github.com/sethvincent/docs)
 - [📖 visit my website on the world wide web](https://sethvincent.com)
 
 ## Contact
-
 - **issues** – Please open issues in the [issues queue](https://github.com/sethvincent/projects/issues)
 - **twitter** – [@sethdvincent](https://twitter.com/sethdvincent)
+- **email** – sethvincent@gmail.com
