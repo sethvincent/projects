@@ -43,6 +43,10 @@ A wiki for Seattle, WA.
 
 ## Large open source projects
 
+### [daylog](https://daylog.sh)
+
+A command-line tool to track daily notes and todos.
+
 ### [staticland](https://static.land)
 
 Host static sites with automatic SSL via Let's Encrypt.
@@ -77,6 +81,8 @@ Here are a few of my favorite small modules I've created that don't fit in one o
 - [gameloop](https://github.com/sethvincent/gameloop) – simple game loop
 - [load-images](https://github.com/sethvincent/load-images) – load images in the browser
 - [sprite-2d](https://github.com/sethvincent/sprite-2d) – render 2d sprites
+
+I have quite a few more [modules on npm](https://npmjs.com/~sethvincent).
 
 ## Demos & examples
 
