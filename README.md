@@ -91,6 +91,7 @@ I enjoy creating demos! I learned how to write code in part by creating examples
 Here are some of the experiments, examples, and demos I've created over the years.
 
 - [grow](https://github.com/sethvincent/grow) – Simple click game made with choo 
+- [Github Actions node example](https://github.com/sethvincent/example-github-actions-node) – This example explores using the new [Github actions CI](https://github.com/features/actions) functionality for continuous testing & release
 - [examples-osm-p2p](https://github.com/sethvincent/examples-osm-p2p) – Examples of using osm-p2p and osm-p2p-observations
 - [township-example](https://github.com/township/township-example) – An example app using township modules
 - [github-auth-example](https://github.com/sethvincent/github-auth-example) – Example code for a post on makerlog.org about performing GitHub authentication using gatekeeper.
