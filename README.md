@@ -116,7 +116,7 @@ Have ideas or fixes for this repository? Please read the [contributing guideline
 Help keep this project open and inclusive. Please read and follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## See also
-- [📓 read my public notebook](https://github.com/sethvincent/docs)
+- [📓 read my public notebook](https://github.com/sethvincent/notes)
 - [📖 visit my website on the world wide web](https://sethvincent.com)
 
 ## Contact
