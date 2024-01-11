@@ -5,7 +5,7 @@
 ## Local news
 
 ### [_The Mima Mercury_](https://github.com/mimamercury)
-News and community tools for South Puget Sound, Washington.
+Civic information and community tools for South Puget Sound, Washington State.
 
 ## Small tools & apps
 
